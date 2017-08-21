@@ -1,0 +1,2 @@
+# handsomeYe.lazyFragment
+使用fragment的懒加载处理viewpager的预加载
